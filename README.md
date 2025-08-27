@@ -74,11 +74,18 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 ![Home Page]<img width="1920" height="1020" alt="Screenshot 2025-08-27 231249" src="https://github.com/user-attachments/assets/c62e7766-b1b1-4ec2-8e4f-62072a2ccfe3" />
 
 
-**Screenshot 2: Movie Details**
-![Movie Details](https://placehold.it/800x600)
+**Screenshot 2: Main Details**
+![Main Details](https://placehol<img width="1920" height="1020" alt="Screenshot 2025-08-27 231300" src="https://github.com/user-attachments/assets/1f9bf90c-ce7c-453e-99d4-83e0dec09b97" />
+![image]<img width="1920" height="1020" alt="Screenshot 2025-08-27 231309" src="https://github.com/user-attachments/assets/5f254227-5d66-4002-b445-aa687ed148b9" />
+![image]<img width="1920" height="1020" alt="Screenshot 2025-08-27 231317" src="https://github.com/user-attachments/assets/d2fe8b1c-e7c9-4e22-8ced-bc714527ec30" />
+![image]<img width="1920" height="1020" alt="Screenshot 2025-08-27 231327" src="https://github.com/user-attachments/assets/eef3baf5-226e-4b12-8b3d-3fd898e115e8" />
 
-**Screenshot 3: Search Results**
-![Search Results](https://placehold.it/800x600)
+![FAQ section]<img width="1920" height="1020" alt="Screenshot 2025-08-27 231338" src="https://github.com/user-attachments/assets/dd04063b-823b-4be5-9c2e-d0c5d4c4d3eb" />
+
+
+**Screenshot 3: Footer Section**
+![Footer Sections]<img width="1920" height="1020" alt="Screenshot 2025-08-27 231345" src="https://github.com/user-attachments/assets/dad9e0b2-346f-4e28-aefd-bb0559454320" />
+
 
 **📦 API Reference**
 -------------------
@@ -88,11 +95,14 @@ Note: This project does not use any APIs, as it is a static website.
 **👤 Author**
 ------------
 
-Your Name
+Shaikh Abdul Qadir
 
 **📝 License**
 ------------
 
 MIT License
 
-I hope this README meets your requirements! Let me know if you need any further modifications. 😊
+
+## All the best! 🥇
+
+<p align="center">
