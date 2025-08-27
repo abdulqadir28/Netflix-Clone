@@ -66,10 +66,10 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 2. Run the tests by running: `npm run test`
 3. Review the test results to ensure that the website is functioning as expected.
 
-**📸 Screenshots**
+##📸 Screenshots
 -----------------
 
-**Screenshot 1: Home Page**<img width="1920" height="1020" alt="Screenshot 2025-08-27 231249" src="https://github.com/user-attachments/assets/ff3001cf-6c78-4902-8e4e-41a48579bd35" />
+**Screenshot 1: Home Page**
 
 ![Home Page]([https://placehold.it/800x600](https://github.com/user-attachments/assets/ff3001cf-6c78-4902-8e4e-41a48579bd35))
 
