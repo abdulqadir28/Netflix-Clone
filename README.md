@@ -35,8 +35,7 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 * `script.js`: The JavaScript file that contains the logic for the website.
 * `images`: The folder that contains the images used on the website.
 * `fonts`: The folder that contains the fonts used on the website.
-* `scss`: The folder that contains the SCSS files used for preprocessing CSS.
-* `utils`: The folder that contains utility functions used throughout the website.
+* `css`: The folder that contains the CSS files used for preprocessing CSS.
 
 **⚙️ How to Run**
 -------------------
