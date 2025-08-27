@@ -76,12 +76,20 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 
 
 **Screenshot 2: Main Details**
-[Main Details] <img width="1920" height="1020" alt="Screenshot 2025-08-27 231300" src="https://github.com/user-attachments/assets/1f9bf90c-ce7c-453e-99d4-83e0dec09b97" />
-[2nd] <img width="1920" height="1020" alt="Screenshot 2025-08-27 231309" src="https://github.com/user-attachments/assets/5f254227-5d66-4002-b445-aa687ed148b9" />
-[3rd] <img width="1920" height="1020" alt="Screenshot 2025-08-27 231317" src="https://github.com/user-attachments/assets/d2fe8b1c-e7c9-4e22-8ced-bc714527ec30" />
-[4th] <img width="1920" height="1020" alt="Screenshot 2025-08-27 231327" src="https://github.com/user-attachments/assets/eef3baf5-226e-4b12-8b3d-3fd898e115e8" />
+## Main Details
+![Screenshot 2025-08-27 231300](https://github.com/user-attachments/assets/1f9bf90c-ce7c-453e-99d4-83e0dec09b97)
 
-[ 5th FAQ section] <img width="1920" height="1020" alt="Screenshot 2025-08-27 231338" src="https://github.com/user-attachments/assets/dd04063b-823b-4be5-9c2e-d0c5d4c4d3eb" />
+## 2nd
+![Screenshot 2025-08-27 231309](https://github.com/user-attachments/assets/5f254227-5d66-4002-b445-aa687ed148b9)
+
+## 3rd
+![Screenshot 2025-08-27 231317](https://github.com/user-attachments/assets/d2fe8b1c-e7c9-4e22-8ced-bc714527ec30)
+
+## 4th
+![Screenshot 2025-08-27 231327](https://github.com/user-attachments/assets/eef3baf5-226e-4b12-8b3d-3fd898e115e8)
+
+## FAQ Section
+![Screenshot 2025-08-27 231338](https://github.com/user-attachments/assets/dd04063b-823b-4be5-9c2e-d0c5d4c4d3eb)
 
 
 **Screenshot 3: Footer Section**
