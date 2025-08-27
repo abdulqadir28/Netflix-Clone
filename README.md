@@ -1,5 +1,5 @@
 
-**🚀 Netflix Official Site & Stream your favorite movies and TV shows**
+## Netfluix-Clone
 ------------
 
 **📖 Description**
