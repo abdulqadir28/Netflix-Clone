@@ -92,7 +92,6 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 ![Screenshot 2025-08-27 231338](https://github.com/user-attachments/assets/dd04063b-823b-4be5-9c2e-d0c5d4c4d3eb)
 
 
-**Screenshot 3: Footer Section**
 ## Footer Sections
 ![Screenshot 2025-08-27 231345](https://github.com/user-attachments/assets/dad9e0b2-346f-4e28-aefd-bb0559454320)
 
