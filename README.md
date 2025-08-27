@@ -1,5 +1,5 @@
 
-## 🚀🚀Netflix-Clone
+## ⚓🚀Netflix-Clone
 ------------
 
 **📖 Description**
