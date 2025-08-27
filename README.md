@@ -30,7 +30,7 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 **📁 Project Structure**
 -------------------------
 
-* `netflix.html`: The main HTML file that serves as the entry point for the website.
+* `index.html`: The main HTML file that serves as the entry point for the website.
 * `style.css`: The CSS file that contains the styles for the website.
 * `script.js`: The JavaScript file that contains the logic for the website.
 * `images`: The folder that contains the images used on the website.
