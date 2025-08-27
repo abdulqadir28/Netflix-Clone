@@ -71,7 +71,8 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 
 **Screenshot 1: Home Page**
 
-![Home Page]([https://placehold.it/800x600](https://github.com/user-attachments/assets/ff3001cf-6c78-4902-8e4e-41a48579bd35))
+![Home Page]([https://placehold.it![Uploading Screenshot 2025-08-27 231249.png…]()
+/800x600]
 
 **Screenshot 2: Movie Details**
 ![Movie Details](https://placehold.it/800x600)
