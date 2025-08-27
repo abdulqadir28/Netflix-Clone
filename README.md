@@ -111,7 +111,7 @@ MIT License
 
 
 
-**Congratulations!** You've made your first contribution!🙌🏼
+
 
 
 
@@ -122,3 +122,5 @@ MIT License
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/shaikhabdulqadirs/Netflix-Clone.git)
 
 </p>
+
+**Congratulations!** You've made your first contribution!🙌🏼
