@@ -93,7 +93,9 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 
 
 **Screenshot 3: Footer Section**
-![Footer Sections] <img width="1920" height="1020" alt="Screenshot 2025-08-27 231345" src="https://github.com/user-attachments/assets/dad9e0b2-346f-4e28-aefd-bb0559454320" />
+## Footer Sections
+![Screenshot 2025-08-27 231345](https://github.com/user-attachments/assets/dad9e0b2-346f-4e28-aefd-bb0559454320)
+
 
 
 **📦 API Reference**
