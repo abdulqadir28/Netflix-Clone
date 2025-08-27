@@ -74,15 +74,15 @@ The Netflix Official Site is a static website built using HTML, CSS, and JavaScr
 
 
 
-**Screenshot 2: Main Details**
+## Screenshot 2: Main Details
 
-## 2nd
+**2nd**
 ![Screenshot 2025-08-27 231309](https://github.com/user-attachments/assets/5f254227-5d66-4002-b445-aa687ed148b9)
 
-## 3rd
+**3rd**
 ![Screenshot 2025-08-27 231317](https://github.com/user-attachments/assets/d2fe8b1c-e7c9-4e22-8ced-bc714527ec30)
 
-## 4th
+**4th**
 ![Screenshot 2025-08-27 231327](https://github.com/user-attachments/assets/eef3baf5-226e-4b12-8b3d-3fd898e115e8)
 
 ## FAQ Section
@@ -110,6 +110,15 @@ Shaikh Abdul Qadir
 MIT License
 
 
+
+**Congratulations!** You've made your first contribution!🙌🏼
+
+
+
 ## All the best! 🥇
 
 <p align="center">
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/shaikhabdulqadirs/Netflix-Clone.git)
+
+</p>
